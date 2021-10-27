@@ -1,1 +1,12 @@
 /* BASIC STYLES HERE */
+.bs-info{
+  background-color: Var(--bs-info);
+}
+
+.text-color{
+  color: Var(--bs-dark);
+}
+
+.special-font{
+  font-family: 'Source Code Pro', monospace;
+}
